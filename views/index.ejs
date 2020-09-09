@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel = "stylesheet" href = "/css/bootstrap.min.css"/>
+    <title>FileSearch</title>
+</head>
+<body>
+    <div class="container mt-5">
+        <div class="row">
+            <div class="col-md-6 m-auto">
+                <h3 class="text_container mb-3">
+                    Search File by Filename
+                </h3>
+                <div class="form-group">
+                    <input 
+                        type="text" 
+                        id = "search" 
+                        class="form-control form-control-lg" 
+                        placeholder = "Enter Filename"
+                    />
+                </div>
+                <div id="match-list"></div>
+            </div>
+        </div>
+    </div>
+    <script>
+        // set up books as global variable
+        window.app = <%- JSON.stringify(books) %>;
+    </script>
+    <script src="/js/main.js"></script>
+</body>
+</html>

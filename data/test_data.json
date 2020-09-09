@@ -1,0 +1,239 @@
+[{
+  "_id": {
+    "$oid": "5f3c1d3b4283686de7cc82de"
+  },
+  "Record Date": "1/16/2003",
+  "Book Type": "CN - Condo",
+  "Book / Page": "127/50",
+  "Instrument": "2003020177",
+  "Secondary": "",
+  "Number of Pages": "3",
+  "Doc Type": "PLAT - SUBDIVISION PLAT DOCUMENT TYPE",
+  "Grantor": "HALL MELINDA",
+  "Legal Description": "E BAY GOLF VILLAS III WATER VIEW CONDO 2-30-15",
+  "filename": "2003-127_50_468.pdf"
+},{
+  "_id": {
+    "$oid": "5f3c1d3d4283686de7cc82e1"
+  },
+  "Record Date": "2/7/2003",
+  "Book Type": "CN - Condo",
+  "Book / Page": "127/76",
+  "Instrument": "2003051047",
+  "Secondary": "",
+  "Number of Pages": "2",
+  "Doc Type": "PLAT - SUBDIVISION PLAT DOCUMENT TYPE",
+  "Grantor": "PLUM INVESTMENTS",
+  "Legal Description": "BAYVIEW VILLAS CONDO 23-28-16",
+  "filename": "2003-127_76_470.pdf"
+},{
+  "_id": {
+    "$oid": "5f3c1d404283686de7cc82e2"
+  },
+  "Record Date": "3/13/2003",
+  "Book Type": "CN - Condo",
+  "Book / Page": "127/91",
+  "Instrument": "2003100565",
+  "Secondary": "",
+  "Number of Pages": "4",
+  "Doc Type": "PLAT - SUBDIVISION PLAT DOCUMENT TYPE",
+  "Grantor": "UNITED BANK & TR CO",
+  "Legal Description": "UNITED BANK PLAZA 7-29-16",
+  "filename": "2003-127_91_472.pdf"
+},{
+  "_id": {
+    "$oid": "5f3c1d404283686de7cc82e3"
+  },
+  "Record Date": "3/14/2003",
+  "Book Type": "CN - Condo",
+  "Book / Page": "127/95",
+  "Instrument": "2003102355",
+  "Secondary": "",
+  "Number of Pages": "4",
+  "Doc Type": "PLAT - SUBDIVISION PLAT DOCUMENT TYPE",
+  "Grantor": "1ST STREET 8 UNIT CONDO L L C",
+  "Legal Description": "BEACH PARADISE CONDO 1-30-14",
+  "filename": "2003-127_95_473.pdf"
+},{
+  "_id": {
+    "$oid": "5f3c1d494283686de7cc82e4"
+  },
+  "Record Date": "2/10/2003",
+  "Book Type": "CN - Condo",
+  "Book / Page": "127/78",
+  "Instrument": "2003052274",
+  "Secondary": "",
+  "Number of Pages": "7",
+  "Doc Type": "PLAT - SUBDIVISION PLAT DOCUMENT TYPE",
+  "Grantor": "SEA CREST OF INDIAN SHORES DEV",
+  "Legal Description": "SEA CREST INDIAN SHORES CONDO 24-30-14",
+  "filename": "2003-127_78_471.pdf"
+},{
+  "_id": {
+    "$oid": "5f3c1d4b4283686de7cc82e5"
+  },
+  "Record Date": "3/17/2003",
+  "Book Type": "CN - Condo",
+  "Book / Page": "128/10",
+  "Instrument": "2003104531",
+  "Secondary": "",
+  "Number of Pages": "6",
+  "Doc Type": "PLAT - SUBDIVISION PLAT DOCUMENT TYPE",
+  "Grantor": "PINELLAS COASTAL DEVELOPOMENT",
+  "Legal Description": "VISTAS GULF CONDO 7-32-16",
+  "filename": "2003-128_10_475.pdf"
+},{
+  "_id": {
+    "$oid": "5f3c1d4e4283686de7cc82e7"
+  },
+  "Record Date": "4/28/2003",
+  "Book Type": "CN - Condo",
+  "Book / Page": "130/16",
+  "Instrument": "2003168351",
+  "Secondary": "",
+  "Number of Pages": "3",
+  "Doc Type": "PLAT - SUBDIVISION PLAT DOCUMENT TYPE",
+  "Grantor": "EAST BAY DEVELOPMENT OF PINELL",
+  "Legal Description": "E BAY GOLF VILLAS IV WATER VIEW CONDO 2-30-15",
+  "filename": "2003-130_16_479.pdf"
+},{
+  "_id": {
+    "$oid": "5f3c1d4e4283686de7cc82e8"
+  },
+  "Record Date": "3/25/2003",
+  "Book Type": "CN - Condo",
+  "Book / Page": "128/16",
+  "Instrument": "2003117916",
+  "Secondary": "",
+  "Number of Pages": "5",
+  "Doc Type": "CONDO - CONDOMINIUM, DECLARATION OF",
+  "Grantor": "PET MAR DEVELOPMENT INC",
+  "Legal Description": "HERITAGE LK CONDO PH 1 33-30-16",
+  "filename": "2003-128_16_476.pdf"
+},{
+  "_id": {
+    "$oid": "5f3c1d4e4283686de7cc82e9"
+  },
+  "Record Date": "5/8/2003",
+  "Book Type": "CN - Condo",
+  "Book / Page": "130/19",
+  "Instrument": "2003186225",
+  "Secondary": "",
+  "Number of Pages": "1",
+  "Doc Type": "PLAT - SUBDIVISION PLAT DOCUMENT TYPE",
+  "Grantor": "GRAND CENTRAL DEVLOPMENT CORP",
+  "Legal Description": "GRAND CENTRAL LOFTS CONDO 23-31-16",
+  "filename": "2003-130_19_480.pdf"
+},{
+  "_id": {
+    "$oid": "5f3c1d514283686de7cc82eb"
+  },
+  "Record Date": "3/17/2003",
+  "Book Type": "CN - Condo",
+  "Book / Page": "128/1",
+  "Instrument": "2003104524",
+  "Secondary": "",
+  "Number of Pages": "9",
+  "Doc Type": "PLAT - SUBDIVISION PLAT DOCUMENT TYPE",
+  "Grantor": "SNELL ARCADE L C",
+  "Legal Description": "SNELL ARCADE CONDO 19-31-17",
+  "filename": "2003-128_1_474.pdf"
+},{
+  "_id": {
+    "$oid": "5f3c1d594283686de7cc82f1"
+  },
+  "Record Date": "5/15/2003",
+  "Book Type": "CN - Condo",
+  "Book / Page": "130/20",
+  "Instrument": "2003197760",
+  "Secondary": "",
+  "Number of Pages": "5",
+  "Doc Type": "PLAT - SUBDIVISION PLAT DOCUMENT TYPE",
+  "Grantor": "ARROWHEAD POINT DEV CORP",
+  "Legal Description": "SUNSET WATCH 20-32-16",
+  "filename": "2003-130_20_481.pdf"
+},{
+  "_id": {
+    "$oid": "5f3c1d594283686de7cc82f2"
+  },
+  "Record Date": "5/23/2003",
+  "Book Type": "CN - Condo",
+  "Book / Page": "130/25",
+  "Instrument": "2003211367",
+  "Secondary": "",
+  "Number of Pages": "6",
+  "Doc Type": "PLAT - SUBDIVISION PLAT DOCUMENT TYPE",
+  "Grantor": "TREASURE ISLAND CONDO DEVELOPE \nTREASURE ISLAND CONDO INVESTOR",
+  "Legal Description": "VENETIAN TREASURE ISL CONDO 23-31-15",
+  "filename": "2003-130_25_482.pdf"
+},{
+  "_id": {
+    "$oid": "5f3c1d6a4283686de7cc82f7"
+  },
+  "Record Date": "4/10/2003",
+  "Book Type": "CN - Condo",
+  "Book / Page": "130/1",
+  "Instrument": "2003144042",
+  "Secondary": "",
+  "Number of Pages": "15",
+  "Doc Type": "PLAT - SUBDIVISION PLAT DOCUMENT TYPE",
+  "Grantor": "GRAND BELLAGIO AT BAYWATCH LP",
+  "Legal Description": "DOCKS BELLAGIO CONDO 20-29-6 ETC",
+  "filename": "2003-130_1_478.pdf"
+},{
+  "_id": {
+    "$oid": "5f3c1d724283686de7cc82ff"
+  },
+  "Record Date": "1/30/2003",
+  "Book Type": "CN - Condo",
+  "Book / Page": "127/53",
+  "Instrument": "2003038443",
+  "Secondary": "",
+  "Number of Pages": "23",
+  "Doc Type": "PLAT - SUBDIVISION PLAT DOCUMENT TYPE",
+  "Grantor": "DALTON SOUTH LLC",
+  "Legal Description": "LA CONTESSA CONDO 5-31-15",
+  "filename": "2003-127_53_469.pdf"
+},{
+  "_id": {
+    "$oid": "5f3c1e014283686de7cc8372"
+  },
+  "Record Date": "4/10/2003",
+  "Book Type": "CN - Condo",
+  "Book / Page": "129/1",
+  "Instrument": "2003144037",
+  "Secondary": "",
+  "Number of Pages": "105",
+  "Doc Type": "PLAT - SUBDIVISION PLAT DOCUMENT TYPE",
+  "Grantor": "GRAND BELLAGIO AT BAYATCH LP",
+  "Legal Description": "GRAND BELLAGIO BAYWATCH CONDO 20-29-16 ETC",
+  "filename": "2003-129_1_477.pdf"
+},{
+  "_id": {
+    "$oid": "5f3c1e5c4283686de7cc83d4"
+  },
+  "Record Date": "1/7/2003",
+  "Book Type": "OR - Official Records",
+  "Book / Page": "125/83",
+  "Instrument": "2003007804",
+  "Secondary": "",
+  "Number of Pages": "1",
+  "Doc Type": "PLAT - SUBDIVISION PLAT DOCUMENT TYPE",
+  "Grantor": "CHOUINARD ROBERT \nLYNCH MICHAEL",
+  "Legal Description": "HOLLY BARDMOOR TOWNHOMES 24-30-15",
+  "filename": "2003-125_83_718.pdf"
+},{
+  "_id": {
+    "$oid": "5f3c1e6f4283686de7cc83e8"
+  },
+  "Record Date": "2/28/2003",
+  "Book Type": "OR - Official Records",
+  "Book / Page": "127/85",
+  "Instrument": "2003080768",
+  "Secondary": "",
+  "Number of Pages": "6",
+  "Doc Type": "PLAT - SUBDIVISION PLAT DOCUMENT TYPE",
+  "Grantor": "MANCINELLI INVESTMENT GROUP IN",
+  "Legal Description": "ARLINGTON TERR CONDO 19-31-17",
+  "filename": "2003-127_85_727.pdf"
+}]
